@@ -19,3 +19,4 @@ def stock_picker(stock_prices)
 end
 
 stock_picker([17,5,15,6,8,2,1,3])
+ 
